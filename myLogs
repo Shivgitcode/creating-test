@@ -1,0 +1,5 @@
+[32m[32minfo[32m[39m:    this info logger
+[32m[32minfo[32m[39m:    {"method":"POST","url":"/register","status":"201","responseTime":"64.624"}
+[32m[32minfo[32m[39m:    [32m{"method":"POST","url":"/register","status":"201","responseTime":"36.113"}[39m
+[32m[32minfo[32m[39m:    [32m{"method":"POST","url":"/register","status":"201","responseTime":"36.207"}[39m
+[32m[32minfo[32m[39m:    [32m{"method":"POST","url":"/register","status":"201","responseTime":"34.718"}[39m
